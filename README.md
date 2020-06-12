@@ -1,10 +1,11 @@
 # KNN-Workshop :robot:
-Repository for the first Artificial Intelligence Workshop from FEA.dev. In this project we use the campus recruitment dataset from kaggle.
+Repositório do primeiro workshop de Inteligência Artificial do FEA.dev. Nesse projeto usamos um dataset do kaggle sobre recrutamento de universitários.
 
-@authors: Diego Lottermann (dlotter), Nicolas Zanoni (NicolasZDH), Guilherme Theo (zedafea)
+@autores: Diego Lottermann (dlotter), Nicolas Zanoni (NicolasZDH), Guilherme Theo (zedafea)
 
 Dataset: https://www.kaggle.com/benroshan/factors-affecting-campus-placement
 
-Open campus_recruitment.ipynb for visualization. 
+Usamos o notebook campus_recruitment.ipynb para o nosso "code along".
+Abra gabarito.ipynb para as respostas.
 
 ![Alt text](/img/knnFrontier.PNG?raw=true "KNN Frontier with K = 19")
