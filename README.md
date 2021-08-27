@@ -3,6 +3,8 @@ Repositório do primeiro workshop de Inteligência Artificial do FEA.dev. Nesse 
 
 @autores: Diego Lottermann (dlotter), Nicolas Zanoni (NicolasZDH), Guilherme Theo (zedafea)
 
+Você pode assitir ao workshop em: https://www.youtube.com/watch?v=xL2RK0QYtHc&ab_channel=FEADev
+
 Dataset: https://www.kaggle.com/benroshan/factors-affecting-campus-placement
 
 Usamos o notebook campus_recruitment.ipynb para o nosso "code along".
